@@ -1,20 +1,43 @@
-# Leetcode-DSA
-DSA practice and LeetCode solutions in C++ with explanations and optimized approaches.
+# Java-DSA
 
-# DSA and LeetCode
-A collection of Data Structures & Algorithms problems, LeetCode solutions, and coding interview preparation in C++.
+A collection of Java programs, Data Structures & Algorithms practice, coding exercises, and LeetCode solutions. This repository documents my learning journey in Java, from core programming concepts to advanced DSA topics and problem-solving.
 
 ## Topics Covered
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
+
+### Java Fundamentals
+
+* Variables & Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Methods
+* Arrays
+* Strings
+* Object-Oriented Programming (OOP)
+
+### Data Structures & Algorithms
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Graphs
+* Hashing
+* Recursion & Backtracking
+* Searching & Sorting
+* Dynamic Programming
+
+### Problem Solving
+
+* LeetCode Solutions
+* Coding Practice Questions
+* Interview Preparation Problems
 
 ## Language
-- C++
+
+* Java
 
 ## Goal
-To improve problem-solving skills and build a strong foundation in Data Structures & Algorithms.
+
+To build a strong foundation in Java programming, improve problem-solving skills, master Data Structures & Algorithms, and track my learning progress by uploading everything I learn, practice, and implement throughout my journey.
